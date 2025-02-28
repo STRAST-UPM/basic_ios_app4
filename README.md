@@ -26,9 +26,6 @@ Las siguientes librerías provienen del SDK de Firebase:
 - **DKImagePickerController** → Selector de imágenes avanzado para iOS.
 - **DKPhotoGallery** → Visor de imágenes con múltiples opciones de presentación.
 
-### 🔹 **Gestión de Redes y Conectividad**
-- **Alamofire** → Cliente HTTP basado en Swift para redes avanzadas.
-
 ## 📜 Licencia
 Este proyecto está bajo la licencia **MIT**.
 
