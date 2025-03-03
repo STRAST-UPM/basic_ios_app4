@@ -37,6 +37,6 @@ Las siguientes librerías provienen del SDK de Firebase:
 - **RecaptchaInterop** → Integración con reCAPTCHA.
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia **GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007**.
+Este proyecto está bajo la licencia **GNU GENERAL PUBLIC LICENSE Version 3**.
 
 ---
